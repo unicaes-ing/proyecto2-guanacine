@@ -1,0 +1,9 @@
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\obj\Debug\GuanaCine.csprojAssemblyReference.cache
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\obj\Debug\GuanaCine.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\bin\Debug\GuanaCine.exe.config
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\bin\Debug\GuanaCine.exe
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\bin\Debug\GuanaCine.pdb
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\bin\Debug\Colorful.Console.dll
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\obj\Debug\GuanaCine.csproj.CopyComplete
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\obj\Debug\GuanaCine.exe
+C:\Users\carra\source\repos\GuanaCine\GuanaCine\obj\Debug\GuanaCine.pdb
